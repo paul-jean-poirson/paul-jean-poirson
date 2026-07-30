@@ -111,6 +111,10 @@ La huitième session n'a pas produit de cas d'usage à industrialiser mais un gu
 
 Les deux phases ne se sont pas succédé : la mise en œuvre a démarré dès les premiers ateliers, pendant que les volets suivants étaient encore à explorer. Le premier service visité était le plus contraint ; il n'y avait aucune raison de le faire patienter jusqu'à ce que le huitième soit documenté.
 
+### Systèmes livrés
+
+- [Pipeline d'analyse des appels commerciaux](./pipeline-appels) — analyse des appels et génération de livrables de coaching.
+
 Ce fonctionnement suppose de travailler avec les équipes qui construisent — développement Salesforce, PHP, Python — plutôt que de leur transmettre un cahier des charges en fin de mission. Le rôle consiste alors à tenir les deux bouts en même temps : continuer à découvrir les processus des services non encore visités, et alimenter en spécifications exploitables ceux qui sont déjà en cours d'implémentation. Les retours des premières mises en production nourrissent en retour les ateliers suivants — on arrive dans le service d'après en sachant ce qui a résisté ailleurs.
 
 État à fin juillet 2026.

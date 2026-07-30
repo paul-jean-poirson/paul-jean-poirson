@@ -37,6 +37,16 @@ Trois constats structurants sont sortis du terrain, qu'aucune spécification éc
 
 ---
 
+## Un système livré, en détail
+
+### [Pipeline d'analyse des appels commerciaux](./cartographie-ia/pipeline-appels)
+
+Plusieurs milliers de conversations transformées en livrables de coaching individuel, avec une séparation stricte entre les faits calculés par le pipeline et l'analyse rédigée par le modèle.
+
+→ **[Lire le deep dive](./cartographie-ia/pipeline-appels)**
+
+---
+
 ## Projet personnel
 
 ### ❡ [Corruption-Z](./corruption-z) — [corruption-z.com ↗](https://corruption-z.com)
