@@ -18,6 +18,8 @@ Les deux phases ne se sont pas succédé : l'implémentation a démarré dès le
 
 Trois constats structurants sont sortis du terrain, qu'aucune spécification écrite en amont n'aurait produits : le goulot d'étranglement est la donnée et jamais le modèle ; un quart des irritants remontés ne relèvent pas de l'IA mais d'un bug ou d'un contrôle redondant ; et brancher un assistant sur un partage documentaire existant élargit le périmètre d'accès réel sans qu'aucune permission n'ait changé.
 
+Exemple détaillé d'un système livré : [pipeline d'analyse des appels commerciaux](./cartographie-ia/pipeline-appels).
+
 #### Stack IA
 
 - **Claude** — analyse des transcriptions, structuration des cas d'usage, rédaction des livrables
